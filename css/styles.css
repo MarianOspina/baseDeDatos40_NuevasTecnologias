@@ -11028,3 +11028,7 @@ p {
 .address strong {
   font-size: 1.2rem;
 }
+
+.black-border td, .black-border th {
+  border: 1px solid #000;
+}
